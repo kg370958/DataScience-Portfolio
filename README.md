@@ -16,6 +16,13 @@ In this project, I've delved into cutting-edge methodologies aimed at augmenting
 ### 4. Confident Capsules: Robust Image Recognition with Error Correction and Advanced Learning Techniques
 In this project, I've pioneered a groundbreaking approach to image recognition by seamlessly integrating Capsule Networks with advanced confident learning techniques, specifically tailored to correct label errors. By harnessing the power of Capsule Networks alongside sophisticated confident learning methodologies, our model not only excels at discerning complex visual patterns across diverse datasets, as demonstrated by our experiments on CIFAR data, but also possesses the capability to identify and rectify label errors during training. This fusion ensures robustness to noisy and erroneous labels, enhancing the model's accuracy and reliability in real-world scenarios. The implications of our methodology extend beyond traditional computer vision applications, with potential uses spanning autonomous vehicles, medical imaging, and more.
 
+## Repository Structure
+
+- `Time_Series_Stock_Prediction/`: Contains code and analysis for the Time Series Analysis for Stock Price Prediction project.
+- `Bayesian_Customer_Purchasing_Analysis/`: Contains code and analysis for the Bayesian Analysis on Customer Purchasing Intention project.
+- `Text_Generation_Transfer_Learning/`: Contains code and analysis for the Enhancing Text Generation with Transfer Learning project.
+- `Image_Recognition_Confident_Capsules/`: Contains code and analysis for the Confident Capsules: Robust Image Recognition project.
+
 Each project in this portfolio represents a meticulous journey of exploration, analysis, and innovation in the realm of data science. I invite you to delve deeper into each project to witness the depth of my expertise and the breadth of my contributions to this dynamic and rapidly evolving field.
 
 Thank you for visiting, and I look forward to the opportunity to collaborate and create impactful solutions together.
